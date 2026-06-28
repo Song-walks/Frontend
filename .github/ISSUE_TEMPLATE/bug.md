@@ -1,5 +1,5 @@
 ---
-name: "Bug Template"
+name: "Bug template"
 about: 버그 리포트 이슈 템플릿
 title: "\U0001F41B [Bug] "
 labels: ''
