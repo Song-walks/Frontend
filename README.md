@@ -7,7 +7,7 @@
 ## ⚙️ 시작하기 전에 (Prerequisites)
 
 * **Node.js**가 설치되어 있어야 한다.
-* 일관된 코드 스타일을 위해 아래 **VS Code 확장 프로그램(Extensions)**을 반드시 설치해 주세요.
+* 일관된 코드 스타일을 위해 아래 VS Code 확장 프로그램(Extensions)을 반드시 설치해 주세요.
   1. `ESLint`
   2. `Prettier - Code formatter`
 
@@ -45,6 +45,6 @@ npm run dev
 - 메인 브랜치: `main`
 - 작업 브랜치: `타입/#이슈번호-작업내용` 형식의 브랜치명으로 생성
 
-  (ex: feature/#1-mypage, fix/#10-UIFix...)
+  (ex: feature/#1-mypage, fix/#10-UIFix 등)
 - 커밋 규칙: 깃허브에 Push한 뒤, `main` 브랜치로 PR 생성 (*Notion의 컨벤션 준수해 주세요.*)
 - 보호 규칙: `main`에 직접 Merge 불가
